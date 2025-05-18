@@ -1,0 +1,49 @@
+{
+    "searches": [
+        {
+            "username": "alice123",
+            "url": "github.com/alice123",
+            "searched_at": "2025-05-18T14:35:20"
+        },
+        {
+            "username": "bob_dev",
+            "url": "github.com/bob_dev",
+            "searched_at": "2025-05-18T15:10:05"
+        },
+        {
+            "username": "charlie99",
+            "url": "github.com/charlie99",
+            "searched_at": "2025-05-18T16:05:42"
+        },
+        {
+            "username": "sytn",
+            "url": "https://api.github.com/users/sytn/events",
+            "searched_at": "2025-05-18 14:11:14"
+        },
+        {
+            "username": "test",
+            "url": "https://api.github.com/users/test/events",
+            "searched_at": "2025-05-18 14:14:00"
+        },
+        {
+            "username": "Sytn",
+            "url": "https://api.github.com/users/Sytn/events",
+            "searched_at": "2025-05-18 14:17:58"
+        },
+        {
+            "username": "Sytn",
+            "url": "https://api.github.com/users/Sytn/events",
+            "searched_at": "2025-05-18 14:21:35"
+        },
+        {
+            "username": "Sytn",
+            "url": "https://api.github.com/users/Sytn/events",
+            "searched_at": "2025-05-18 14:21:49"
+        },
+        {
+            "username": "Sytn",
+            "url": "https://api.github.com/users/Sytn/events",
+            "searched_at": "2025-05-18 14:38:28"
+        }
+    ]
+}
